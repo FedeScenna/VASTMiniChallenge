@@ -21,5 +21,3 @@ for f in range(0,len(df["From"])):
         long_df=long_df.append(single_df, ignore_index = True)
 
 long_df.to_csv("data/employee_headers_long.csv", index = False)
-
-
