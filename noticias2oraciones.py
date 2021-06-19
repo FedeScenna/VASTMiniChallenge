@@ -2,6 +2,7 @@ import os
 import spacy
 from spacytextblob.spacytextblob import SpacyTextBlob
 import datatable as dt
+from datatable import f
 
 cwd = os.getcwd()
 noticias = dt.fread(cwd + '/data/noticias.csv')
