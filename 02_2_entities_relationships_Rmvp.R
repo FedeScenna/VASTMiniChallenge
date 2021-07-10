@@ -54,8 +54,6 @@ for (i in 1:nrow(datos)){ #Recorre cada fila
   }
 }
 
-edges <- distinct(edges)
-
 
 # Transform to a igraph object
 mygraph <- graph_from_data_frame(edges)
@@ -81,7 +79,27 @@ p2 <-  ggraph(mygraph, layout="linear") +
     legend.position="none",
     plot.margin=unit(rep(2,4), "cm")
   ) 
-
-
 p2
 
+
+df$organizaciones
+df_final <- df %>% 
+  select(c(personas, organizaciones, X0, X1, X2, X3, X4)) %>%
+  filter(organizaciones == "POK")
+
+
+df_output <- data.frame("name" = nodos)
+df_output %<>%
+  mutate(org = case_when(
+    name %in% c("Jeroen Karel", "Juliana Vann", "Elian Karel",
+                "Antaura Karel","Abila","Silvia Marek", "Pondo Reese",
+                "Carmine Osvaldo","Cesare Nespola") ~ "POK",
+    name %in% c("Vincent Kapelou","Kapelou II") ~ "Gov of Kronos",
+    TRUE ~ "GasTech"
+  ))
+
+#output observable
+edges %>%
+  group_by(from, to) %>%
+  summarise(value = n()) %>%
+  dplyr::left_join(df_output, by = c("from" = "name"))

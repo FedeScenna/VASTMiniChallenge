@@ -1,0 +1,95 @@
+from,to,value,org
+Abila,Cesare Nespola,4,POK
+Abila,Elian Karel,8,POK
+Ada Campo-Corrente,Ingrid Barranco,95,GasTech
+Ada Campo-Corrente,Orhan Strum,69,GasTech
+Ada Campo-Corrente,Sanjorge Jr,25,GasTech
+Ada Campo-Corrente,Sanjorge Sr,3,GasTech
+Ada Campo-Corrente,Willem Vasco-Pais,21,GasTech
+Antaura Karel,Elian Karel,1,POK
+Antaura Karel,Jeroen Karel,1,POK
+Antaura Karel,Silvia Marek,1,POK
+Beatriz Fluss,Hank Fluss,27,GasTech
+Beatriz Fluss,Sanjorge Jr,7,GasTech
+Carmine Osvaldo,Cesare Nespola,8,POK
+Carmine Osvaldo,Juliana Vann,14,POK
+Cesare Nespola,Abila,4,POK
+Cesare Nespola,Carmine Osvaldo,8,POK
+Cesare Nespola,Juliana Vann,6,POK
+Cesare Nespola,Kapelou II,32,POK
+Cesare Nespola,Vincent Kapelou,15,POK
+Elian Karel,Abila,8,POK
+Elian Karel,Antaura Karel,2,POK
+Elian Karel,Henk Bodrogi,18,POK
+Elian Karel,Jeroen Karel,31,POK
+Elian Karel,Juliana Vann,140,POK
+Elian Karel,Kapelou II,6,POK
+Elian Karel,Sanjorge Jr,4,POK
+Elian Karel,Silvia Marek,57,POK
+Hank Fluss,Beatriz Fluss,27,GasTech
+Hank Fluss,Sanjorge Jr,18,GasTech
+Hank Fluss,Sanjorge Sr,50,GasTech
+Henk Bodrogi,Elian Karel,18,GasTech
+Henk Bodrogi,Jeroen Karel,19,GasTech
+Henk Bodrogi,Pondo Reese,4,GasTech
+Ingrid Barranco,Ada Campo-Corrente,95,GasTech
+Ingrid Barranco,Orhan Strum,69,GasTech
+Ingrid Barranco,Sanjorge Jr,37,GasTech
+Ingrid Barranco,Sanjorge Sr,7,GasTech
+Ingrid Barranco,Willem Vasco-Pais,21,GasTech
+Jeroen Karel,Antaura Karel,1,POK
+Jeroen Karel,Elian Karel,29,POK
+Jeroen Karel,Henk Bodrogi,19,POK
+Jeroen Karel,Silvia Marek,2,POK
+Joclyn Reynolds,Sanjorge Jr,4,GasTech
+Juliana Vann,Carmine Osvaldo,14,POK
+Juliana Vann,Cesare Nespola,6,POK
+Juliana Vann,Elian Karel,140,POK
+Juliana Vann,Kapelou II,6,POK
+Juliana Vann,Silvia Marek,3,POK
+Kapelou II,Cesare Nespola,32,Gov of Kronos
+Kapelou II,Elian Karel,6,Gov of Kronos
+Kapelou II,Juliana Vann,6,Gov of Kronos
+Kapelou II,Sanjorge Jr,12,Gov of Kronos
+Kapelou II,Vincent Kapelou,31,Gov of Kronos
+Linda Lagos,Orhan Strum,12,GasTech
+Orhan Strum,Ada Campo-Corrente,69,GasTech
+Orhan Strum,Ingrid Barranco,69,GasTech
+Orhan Strum,Linda Lagos,12,GasTech
+Orhan Strum,Sanjorge Jr,17,GasTech
+Orhan Strum,Sanjorge Sr,2,GasTech
+Orhan Strum,Willem Vasco-Pais,21,GasTech
+Petrus Gerhard,Sanjorge Jr,4,GasTech
+Pondo Reese,Henk Bodrogi,4,POK
+Rebecca Cato,Sanjorge Jr,4,GasTech
+Rufus Drymiau,Sanjorge Jr,16,GasTech
+Sanjorge Jr,Ada Campo-Corrente,25,GasTech
+Sanjorge Jr,Beatriz Fluss,7,GasTech
+Sanjorge Jr,Elian Karel,4,GasTech
+Sanjorge Jr,Hank Fluss,18,GasTech
+Sanjorge Jr,Ingrid Barranco,37,GasTech
+Sanjorge Jr,Joclyn Reynolds,4,GasTech
+Sanjorge Jr,Kapelou II,12,GasTech
+Sanjorge Jr,Orhan Strum,17,GasTech
+Sanjorge Jr,Petrus Gerhard,4,GasTech
+Sanjorge Jr,Rebecca Cato,4,GasTech
+Sanjorge Jr,Rufus Drymiau,16,GasTech
+Sanjorge Jr,Sanjorge Sr,3,GasTech
+Sanjorge Jr,Willem Vasco-Pais,9,GasTech
+Sanjorge Sr,Ada Campo-Corrente,3,GasTech
+Sanjorge Sr,Hank Fluss,56,GasTech
+Sanjorge Sr,Ingrid Barranco,7,GasTech
+Sanjorge Sr,Orhan Strum,2,GasTech
+Sanjorge Sr,Sanjorge Jr,3,GasTech
+Sanjorge Sr,Willem Vasco-Pais,1,GasTech
+Silvia Marek,Antaura Karel,1,POK
+Silvia Marek,Elian Karel,54,POK
+Silvia Marek,Jeroen Karel,2,POK
+Silvia Marek,Juliana Vann,3,POK
+Vincent Kapelou,Cesare Nespola,15,Gov of Kronos
+Vincent Kapelou,Kapelou II,31,Gov of Kronos
+Willem Vasco-Pais,Ada Campo-Corrente,21,GasTech
+Willem Vasco-Pais,Ingrid Barranco,21,GasTech
+Willem Vasco-Pais,Orhan Strum,21,GasTech
+Willem Vasco-Pais,Sanjorge Jr,9,GasTech
+Willem Vasco-Pais,Sanjorge Sr,1,GasTech
