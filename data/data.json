@@ -1,0 +1,29 @@
+{
+   "primary_source":"Kronos Star",
+   "children":[
+      {
+         "source":"International News",
+         "cantidad":19
+      },
+      {
+         "source":"The Truth",
+         "cantidad":4
+      },
+      {
+         "source":"Worldwise",
+         "cantidad":3
+      },
+      {
+         "source":"The Guide",
+         "cantidad":3
+      },
+      {
+         "source":"Kronos Star",
+         "cantidad":2
+      },
+      {
+         "source":"The World",
+         "cantidad":1
+      }
+   ]
+}
