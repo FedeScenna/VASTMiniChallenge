@@ -2,7 +2,7 @@
    "name":"fuente",
    "children":[
       {
-         "name":"Kronos Star",
+         "name":"Kronos Star", "cantidad":59,
          "children":[
             {
                "name":"News Online Today",
