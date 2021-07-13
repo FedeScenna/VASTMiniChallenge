@@ -1,29 +1,38 @@
 {
-   "primary_source":"Kronos Star",
+   "name":"'Kronos Star'",
    "children":[
       {
-         "source":"International News",
-         "cantidad":19
-      },
-      {
-         "source":"The Truth",
-         "cantidad":4
-      },
-      {
-         "source":"Worldwise",
-         "cantidad":3
-      },
-      {
-         "source":"The Guide",
-         "cantidad":3
-      },
-      {
-         "source":"Kronos Star",
-         "cantidad":2
-      },
-      {
-         "source":"The World",
-         "cantidad":1
+         "name":"secundarias",
+         "children":[
+            {
+               "name":"News Online Today",
+               "cantidad":27
+            },
+            {
+               "name":"International News",
+               "cantidad":19
+            },
+            {
+               "name":"The Truth",
+               "cantidad":4
+            },
+            {
+               "name":"Worldwise",
+               "cantidad":3
+            },
+            {
+               "name":"The Guide",
+               "cantidad":3
+            },
+            {
+               "name":"Kronos Star",
+               "cantidad":2
+            },
+            {
+               "name":"The World",
+               "cantidad":1
+            }
+         ]
       }
    ]
 }
