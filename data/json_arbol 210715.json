@@ -30,7 +30,7 @@
       },
       {
          "name":"Kronos Star",
-         "cantidad":60,
+         "cantidad":58,
          "children":[
             {
                "name":"News Online Today",
@@ -52,10 +52,7 @@
                "name":"The Guide",
                "cantidad":4
             },
-            {
-               "name":"Kronos Star",
-               "cantidad":2
-            },
+            
             {
                "name":"The World",
                "cantidad":1
